@@ -6,45 +6,41 @@ Project 8 <!DOCTYPE html>
 <link rel="stylesheet"  href="project8style.css" >
 </head>
 
-<body> <h1> RANDOM TEEEEEEEEXXXT!</h1> 
-
-</body>
-
 <body> 
 <table style="width:100%">
 
 <tr>
-<th>  </th>
-<th>  </th>
-<th>  </th>
+<th> Part </th>
+<th> of </th>
+<th> forecast </th>
 </tr>
 
 <tr>
-<td>  </td>
-<td>  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td>  </td>
+<td> Monday </td>
 <td>  </td>
 <td>  </td>
 </tr>
 
 <tr>
-<td>  </td>
-<td>  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td>  </td>
+<td> Tuesday </td>
 <td>  </td>
 <td>  </td>
 </tr>
 
 <tr>
+<td> Wednesday </td>
 <td>  </td>
+<td>  </td>
+</tr>
+
+<tr>
+<td> Thursday </td>
+<td>  </td>
+<td>  </td>
+</tr>
+
+<tr>
+<td> Friday </td>
 <td>  </td>
 <td>  </td>
 </tr>
