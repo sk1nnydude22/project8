@@ -10,37 +10,47 @@ Project 8 <!DOCTYPE html>
 <table style="width:100%">
 
 <tr>
-<th> Part </th>
-<th> of </th>
-<th> forecast </th>
+<th> Monday </th>
+<th> Tuesday </th>
+<th> Wednesday </th>
+<th> Thursday </th>
+<th> Friday </th>
+</tr>
+/*High*/
+<tr>
+<td> 55 </td>
+<td> 53 </td>
+<td> 51 </td>
+<td> 47 </td>
+<td> 22 </td>
+</tr>
+/* Low */
+<tr>
+<td> 22 </td>
+<td> 20 </td>
+<td> 15 </td>
+<td> 13 </td>
+<td> -1 </td>
+</tr>
+/* weather */
+<tr>
+<td> Full Cloud Coverage </td>
+<td> Thunderstorm </td>
+<td> Thunderstorm </td>
+<td> Rain !Flash Flood Warning! </td>
+<td> Snow </td>
+</tr>
+/* Image */
+<tr>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
+<td>  </td>
 </tr>
 
 <tr>
-<td> Monday </td>
 <td>  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td> Tuesday </td>
-<td>  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td> Wednesday </td>
-<td>  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td> Thursday </td>
-<td>  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td> Friday </td>
 <td>  </td>
 <td>  </td>
 </tr>
