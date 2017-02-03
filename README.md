@@ -20,7 +20,7 @@ Project 8 <!DOCTYPE html>
   <th> Friday </th>
 </tr>
 
-/*High*/
+
 
 <tr>
   <td> 58 </td>
@@ -30,7 +30,7 @@ Project 8 <!DOCTYPE html>
   <td> 22 </td>
 </tr>
 
-/* Low */
+
 
 <tr>
   <td> 35 </td>
@@ -40,7 +40,7 @@ Project 8 <!DOCTYPE html>
   <td> -1 </td>
 </tr>
 
-/* weather */
+
 
 <tr>
   <td> Cloud Coverage </td>
@@ -50,7 +50,7 @@ Project 8 <!DOCTYPE html>
   <td> Snow </td>
 </tr>
 
-/* Image */
+
 
 <tr>
   <td>  <img>   </td>
