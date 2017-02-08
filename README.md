@@ -3,10 +3,8 @@ Project 8 <!DOCTYPE html>
 <html>
 <head>  <h1> 5 Day Forecast </h1> 
 
-    <link rel="stylesheet" type="text/css" href="project8style.css" >
-
 </head>
-
+<head> <link rel="stylesheet" type="text/css" href="project8style.css" > </head>
 <body> 
 <table style="width:100%">
 
