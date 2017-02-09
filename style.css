@@ -1,10 +1,10 @@
-<style rel="stylesheet" type="text/css" href="project8/README">
+<style rel="stylesheet" type="text/css" href="project8/README.md">
 
 .row1 {
 
 height: 300px;
 
-border: 3px dashed red;
+border: 3px dashed; :color: blue;
 
 width: 300px;
 
