@@ -2,15 +2,15 @@
 
 .row1 {
 
-height: 300px;
+height: 300;
 
-border: 3px dashed; :color: blue;
+border: 3 dashed; :color: blue;
 
-width: 300px;
+width: 300;
 
 margin: auto;
 
-padding: 5px;
+padding: 5;
 }
 </style>
 
