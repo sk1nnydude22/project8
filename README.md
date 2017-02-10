@@ -21,27 +21,27 @@ Project 8 <!DOCTYPE html>
 
 
 <tr>
-  <td> 58 </td>
+  <#highs><td> 58 </td>
   <td> 54 </td>
   <td> 51 </td>
   <td> 47 </td>
-  <td> 22 </td>
+  <td> 22 </td></#highs>
 </tr>
 
 
 
 <tr>
-  <td> 35 </td>
+  <#lows><td> 35 </td>
   <td> 25 </td>
   <td> 17 </td>
   <td> 13 </td>
-  <td> -1 </td>
+  <td> -1 </td></#lows>
 </tr>
 
 
 
 <tr>
-  <td> Cloud Coverage </td>
+  <td> Rain </td>
   <td> Thunderstorm </td>
   <td> Thunderstorm </td>
   <td> Rain !Flash Flood Warning! </td>
@@ -51,11 +51,11 @@ Project 8 <!DOCTYPE html>
 
 
 <tr>
-  <td>  <img>   </td>
-  <td>  <img>   </td>
-  <td>  <img>   </td>
-  <td>  <img>   </td>
-  <td>  <img>   </td>
+  <td>  <img src="rainyday.jpg" alt="Rainy City" >   </td>
+  <td>  <img src="rainyday.jpg" alt="Rainy City" >   </td>
+  <td>  <img src="rainyday.jpg" alt="Rainy City" >   </td>
+  <td>  <img class=" " src=" " >   </td>
+  <td>  <img class=" " src=" " >   </td>
 </tr>
 
 </table>
