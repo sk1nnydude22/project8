@@ -44,7 +44,7 @@ Project 8 <!DOCTYPE html>
   <td> Rain </td>
   <td> Thunderstorm </td>
   <td> Thunderstorm </td>
-  <td> Rain !Flash Flood Warning! </td>
+  <td> Rain </td>
   <td> Snow </td>
 </tr>
 
