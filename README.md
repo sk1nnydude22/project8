@@ -52,10 +52,10 @@ Project 8 <!DOCTYPE html>
 
 <tr>
   <td>  <img src="rainyday.jpg" alt="Rainy City" >   </td>
+  <td>  <img src="thunderstorm.jpg" alt="Lightning" >   </td>
+  <td>  <img src="thunderstorm.jpg" alt="Lightning" >   </td>
   <td>  <img src="rainyday.jpg" alt="Rainy City" >   </td>
-  <td>  <img src="rainyday.jpg" alt="Rainy City" >   </td>
-  <td>  <img class=" " src=" " >   </td>
-  <td>  <img class=" " src=" " >   </td>
+  <td>  <img src="snowyweather.jpg" alt="Snowflake" >   </td>
 </tr>
 
 </table>
